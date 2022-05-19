@@ -21,4 +21,4 @@ Formada em Arquitetura e Urbanismo (2017) resolvi, durante a pandemia, me aventu
   <a href="mailto:leticia.uemura@outlook.com">
     <img align="left" width="30px" src="https://user-images.githubusercontent.com/80927546/166112447-56ce50d0-4c74-4ead-9ff0-5f760b213035.png" alt="linkedin" style="max-width: 100%;">
   </a>
-    
+  ![Snake animation](https://github.com/lineeiko/lineeiko/blob/output/github-contribution-grid-snake.svg)
