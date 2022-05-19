@@ -23,4 +23,3 @@ Formada em Arquitetura e Urbanismo (2017) resolvi, durante a pandemia, me aventu
   </a>
     
 ![Snake animation](https://github.com/leticiaharumi/leticiaharumi/blob/output/github-contribution-grid-snake.svg)
-  
