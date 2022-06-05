@@ -1,5 +1,5 @@
 ## Hello, Devs!
-<img width="80px" src="https://user-images.githubusercontent.com/80927546/166112953-2c0b3fa9-c386-488c-a45b-1383c92cc623.gif" style="max-width: 50%;">
+<img width="80px" src="https://user-images.githubusercontent.com/80927546/166112953-2c0b3fa9-c386-488c-a45b-1383c92cc623.gif" style="max-width: 100%;">
 Me chamo Leticia, mas podem me chamar de Lê ou Haru 😊. Tenho 29 anos e moro em São Paulo/SP.
 Formada em Arquitetura e Urbanismo (2017) resolvi, durante a pandemia, me aventurar em uma área nova! Atualmente estou cursando Análise e Desenvolvimento de Sistemas e, me encontro como iniciante no universo da programação! 😄
 </br>
