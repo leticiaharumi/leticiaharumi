@@ -1,7 +1,7 @@
 ## Hello, Devs!
 <img src="https://user-images.githubusercontent.com/80927546/172963103-f46bc4b4-7f47-4187-9e75-4d2a65abd78c.gif">
 
-Me chamo Leticia, mas podem me chamar de Lê ou Haru 😊. Tenho 29 anos e moro em São Paulo/SP.
+Me chamo Leticia, mas podem me chamar de Lê ou Haru 😊. Tenho 30 anos e moro em São Paulo/SP.
 Formada em Arquitetura e Urbanismo (2017) resolvi, durante a pandemia, me aventurar em uma área nova! Atualmente estou cursando Análise e Desenvolvimento de Sistemas e, me encontro como iniciante no universo da programação! 😄
 </br>
 </br>
