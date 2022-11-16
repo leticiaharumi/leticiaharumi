@@ -14,7 +14,7 @@ Formada em Arquitetura e Urbanismo (2017) resolvi, durante a pandemia, me aventu
 </br>
 </br>
 
-<a href="https://instagram.com/lehuemura" rel="nofollow">
+<a href="https://instagram.com/le.uemura" rel="nofollow">
   <img align="left" width="30px" src="https://user-images.githubusercontent.com/80927546/166112592-78c04149-5cc6-4267-b326-8f1de25e225f.png" alt="instagram" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/leticiauemura/" rel="nofollow">
