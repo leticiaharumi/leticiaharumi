@@ -6,14 +6,6 @@ Formada em Arquitetura e Urbanismo (2017) resolvi, durante a pandemia, me aventu
 </br>
 </br>
 
-<div>
-<a href="https://github.com/leticiaharumi">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaharumi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=leticiaharumi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-</br>
-</br>
-
 <a href="https://instagram.com/le.uemura" rel="nofollow">
   <img align="left" width="30px" src="https://user-images.githubusercontent.com/80927546/166112592-78c04149-5cc6-4267-b326-8f1de25e225f.png" alt="instagram" style="max-width: 100%;">
 </a>
